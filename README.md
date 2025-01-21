@@ -1,9 +1,10 @@
 # hello-world
 Example repository
 
-I am Stewart. In between looking for a new job I spend my time:
-- writing Python scripts
-- constructing Electronics hardware
-- measuring my energy consumption
+I am Stewart. I spend my time:
+- Programming with C & Python scripts
+- Constructing Electronics hardware
+- Measuring my energy consumption
 - Adminstrating many Linux computers
-- socialise with friends
+- Socialising with friends
+- Walking with the Cambridge rambling club
